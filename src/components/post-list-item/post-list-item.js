@@ -1,10 +1,11 @@
 import React from 'react';
+import './post-list-item.css';
 
 const PostListItem = () => {
     return (
         <li className="app-list-item d-flex justify-content-between">
             <span className="app-list-item-label">
-                Hello wrot
+                Hello world
             </span>
             <div className="d-flex justify-content-center align-items-center ">
                 <button 
