@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whitecolt.github.io/test-react-app/static/css/main.5cb4d569.chunk.css",
+    "main.js": "/whitecolt.github.io/test-react-app/static/js/main.cd371fd1.chunk.js",
+    "main.js.map": "/whitecolt.github.io/test-react-app/static/js/main.cd371fd1.chunk.js.map",
+    "runtime-main.js": "/whitecolt.github.io/test-react-app/static/js/runtime-main.25657b2b.js",
+    "runtime-main.js.map": "/whitecolt.github.io/test-react-app/static/js/runtime-main.25657b2b.js.map",
+    "static/js/2.f330f109.chunk.js": "/whitecolt.github.io/test-react-app/static/js/2.f330f109.chunk.js",
+    "static/js/2.f330f109.chunk.js.map": "/whitecolt.github.io/test-react-app/static/js/2.f330f109.chunk.js.map",
+    "index.html": "/whitecolt.github.io/test-react-app/index.html",
+    "precache-manifest.98279ee6f83f89efe4c761baf68e2fa9.js": "/whitecolt.github.io/test-react-app/precache-manifest.98279ee6f83f89efe4c761baf68e2fa9.js",
+    "service-worker.js": "/whitecolt.github.io/test-react-app/service-worker.js",
+    "static/css/main.5cb4d569.chunk.css.map": "/whitecolt.github.io/test-react-app/static/css/main.5cb4d569.chunk.css.map",
+    "static/js/2.f330f109.chunk.js.LICENSE.txt": "/whitecolt.github.io/test-react-app/static/js/2.f330f109.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25657b2b.js",
+    "static/js/2.f330f109.chunk.js",
+    "static/css/main.5cb4d569.chunk.css",
+    "static/js/main.cd371fd1.chunk.js"
+  ]
+}
